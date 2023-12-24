@@ -1,0 +1,6 @@
+query getPokemons {
+  pokemon_v2_pokemonspecies {
+    id
+    name
+  }
+}
